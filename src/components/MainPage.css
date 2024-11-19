@@ -1,0 +1,23 @@
+/* src/components/MainPage.css */
+.main-page {
+    background-image: url('/path/to/your/image.jpg'); /* Add your image path here */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .content-wrapper {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 2rem;
+    border-radius: 8px;
+  }
+  
+  .button-group .btn {
+    margin: 0.5rem;
+  }
+  
